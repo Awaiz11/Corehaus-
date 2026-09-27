@@ -21,7 +21,7 @@ export const IMAGES = {
 
 export const LINKS = {
   booking: "https://corehaus.es/schedule",
-  login: "/login-portal",
+  login: "https://momence.com/sign-in?hostId=47062",
   instagram: "https://www.instagram.com/corehaus_es/",
   tiktok: "https://www.tiktok.com/@corehaus_es",
   email: "team@corehaus.es",
